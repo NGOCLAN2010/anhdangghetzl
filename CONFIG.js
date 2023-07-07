@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Hế lu píc cà puuu, tui đây có điều muốn nói!? :)) </br> Anh đáng ghéc không gì thể tả grrrrr =.= ",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Aigooo người ta chán tôi rồi, người ta đâu có yêu mình có thương gì mình </br> Người ta đâu có yêu mình có thương gì mình đâu aidaaaa :'( .",
+  buttonYes: "Đúng!! Anh đáng ghéc, xứng đáng để em đánh anh thoải máiiii",
+  buttonNo: "Không đồng ý! Anh đả đảooo",
+  titleModar: "Gửi lời cảnh báo.",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
-};
+    "Anh đáng ghét, Anh đáng ghét, Anh đáng ghét điều quan trọng nhắc lại 3 lần </br> Sao toàn làm em suy nghĩ hoài vậy, anh có biết thảm hại nhất là gì không? </br> Là khi em cố gắng nói với anh rằng, anh đang làm tổn thương em, em muốn anh thấu hiểu nói với anh rằng Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+}; 
