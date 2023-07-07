@@ -1,10 +1,10 @@
 :root {
-  --white-color: #fff;
+  --white-color: #6d4e4e;
   --black-color: #000;
-  --text-color: #333;
+  --text-color: #000000;
 
-  --header-height: 124px;
-  --width-btn: 340px;
+  --header-height: 300px;
+  --width-btn: 300px;
 }
 
 /* reset css */
@@ -15,15 +15,16 @@
 }
 
 html {
-  font-size: 62.5%;
-  line-height: 1.6rem;
-  font-family: "Pacifico", cursive;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.5rem;
+  font-family: "Times New Roman", sans-serif;
   height: 100vh;
 }
 
 html::-webkit-scrollbar {
   width: 2px;
-  background-color: #ccc;
+  background-color: #28233f;
 }
 
 body {
@@ -63,14 +64,15 @@ canvas {
 /* Header */
 .header {
   text-align: center;
-  z-index: 3;
+  line-height: 40px;
+  z-index: 10;
 }
 
 .header-name {
   margin: 0;
   font-size: 4rem;
   color: var(--text-color);
-  padding: 20px 0;
+  padding: 50px 0;
   line-height: 50px;
 }
 
@@ -78,7 +80,7 @@ canvas {
   font-size: 2rem;
   color: var(--text-color);
   padding: 10px 0;
-  font-weight: 400;
+  font-weight: 1000;
 }
 
 /* Content */
@@ -107,13 +109,13 @@ canvas {
 }
 
 .btn {
-  width: 208px;
-  height: 50px;
+  width: 350px;
+  height: 60px;
   border: none;
-  border-radius: 12px;
-  background-color: #DDA448;
+  border-radius: 15px;
+  background-color: #e3c185;
   font-size: 1.7rem;
-  padding: 0 16px;
+  padding: 30 30px;
   color: var(--text-color);
   outline: none;
 }
@@ -133,7 +135,7 @@ canvas {
 }
 
 .btn--yes:hover {
-  background-color: #6B0F1A;
+  background-color: #a599d8;
   color: var(--white-color);
 }
 
@@ -146,14 +148,14 @@ canvas {
   justify-content: space-evenly;
   text-align: center;
   align-items: center;
-  background-color: rgba(204, 204, 204, 0.5);
+  background-color: rgba(110, 151, 173, 0.5);
   /* overflow: hidden; */
   padding: 10px 0;
 }
 
 .footer-lisence {
-  font-family: "Poppins", sans-serif;
-  font-size: 1.3rem;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 1.5rem;
   font-weight: 300;
   color: var(--text-color);
   display: inline-block;
@@ -169,7 +171,7 @@ canvas {
 }
 
 .footer-link:hover {
-  color: #5998C5;
+  color: #d56969;
   cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym49.cur), auto !important;
 }
 
@@ -199,12 +201,12 @@ canvas {
   margin: auto;
   position: relative;
   z-index: 1;
-  top: -10%;
+  top: 3%;
 }
 
 .message-modal {
-  background-color: #419D78;
-  width: 540px;
+  background-color: #9bafda;
+  width: 750px;
   border-radius: 5px;
 }
 
